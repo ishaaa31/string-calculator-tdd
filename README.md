@@ -25,7 +25,7 @@ Each feature was implemented **one test at a time**, committing after:
 
 ## Final GUI Demo:
  
-🔗 [Live demo](https://your-netlify-link.netlify.app) 
+🔗 [Live demo](https://string-calculator-incubyte31.netlify.app/) 
 
 ## How to Run Locally:
 npm install
