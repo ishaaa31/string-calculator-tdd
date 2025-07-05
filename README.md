@@ -39,7 +39,7 @@ Or open `index.html` and test it in the browser.
 <img src="screenshots/success.png" width="400"/>
 <img src="screenshots/negative_error.png" width="400"/>
 <img src="screenshots/diff_delimeter.png" width="400"/>
-Pdf containing screenshots is also attached within. https://github.com/ishaaa31/string-calculator-tdd/blob/master/string_calculator_pics.pdf
+Pdf containing screenshots are attached within https://github.com/ishaaa31/string-calculator-tdd/blob/master/string_calculator_pics.pdf
 
 ## Built With:
 
